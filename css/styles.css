@@ -1,0 +1,71 @@
+header {
+  background-color: #2d3142;
+}
+
+.title {
+  margin: 0 auto;
+  padding: 7%;
+}
+
+.title h1 {
+  font-size: 6em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.title h2 {
+  font-size: 2em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.about {
+  padding :2%;
+}
+
+.projects {
+  padding: 2%;
+}
+
+.contact {
+  width: 100%;
+  background-color: #7F899A;
+  padding: 5% 0;
+  margin-top: 5%;
+}
+
+.contact-data {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-data h4 {
+  font-size: 2em;
+  color: #ffffff;
+  font-weight: 700;
+}
+.contact-data a {
+  color: #2D3142;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #2D3142;
+  color: #ffffff;
+  padding-top: 5%;
+}
+
+.footer-data {
+padding-top: 4%;
+}
+
+.footer-logo {
+  text-align: right;
+  font-size: 24px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+}
